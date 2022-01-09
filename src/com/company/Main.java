@@ -19,6 +19,8 @@ public class Main {
             System.out.println("Wrong input!");
         }
 
+        System.out.println("COMMIT");
+
         System.out.println(returnZodiacSign(month, day));
     }
 
